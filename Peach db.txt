@@ -1,0 +1,45 @@
+Table Name
+- Field Name
+
+---------
+
+User Data
+- User ID
+- Username 
+- Pin 
+- Subscription Tier
+- Friends (Array)
+- Video IDs viewed
+- Payee ID
+- Report Count
+- Creation Date
+
+Video Data
+- Video ID
+- Video URL
+- Author Username
+- Category
+- Upload date
+- Length
+- View count
+- Challenge ID
+- Challenge Name
+- Earnings
+
+Payment Data  
+-
+
+Feed
+-
+
+Room Data
+- 
+
+Challenge Data
+- 
+
+Reports
+- 
+
+Messages 
+- 
