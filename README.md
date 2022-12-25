@@ -1,3 +1,3 @@
 # peachpwa
  
-Peach is a porn app for findom & femdom, built by good boys (a PWA)
+Peach is a porn PWA for findom & femdom, built by good boys 
