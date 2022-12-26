@@ -8,6 +8,7 @@ Goddesses will be able to add high-quality AR filters to their face, if they wis
 Subs will have the following options on each video: Request to be friends, Like (S,M,L for $x), or "Unmask" for ~x0,000 to see without the AR filter.
 Goddesses will have the option to allow the Unmasking feature on their videos.
 Subs will scroll the Feed & Rooms and try to befriend Goddesses.
+Users will be able to filter the by Video tags. Each video shall have one tag.
 User types will be explained below.
 
 ROOMS --
@@ -15,6 +16,7 @@ Additionally, there will be a Chatroulette / Clubhouse tab called Rooms, were Go
 Rooms features will evolve over time and will not include customization, monetization, or other features to start.
 Today, rooms will be built to have 4 users, and as one user exits or skips, another users will get added to the Room. 
 Rooms will be audio-only by default, with the option to mute/unmute, or turn on/off your video. It's a sysnthis of Clubhouse and Omegle/Chatroulette.
+Would like to use WebTRC.
 
 POST --
 The post tab will mirror the Snapchat experience.
