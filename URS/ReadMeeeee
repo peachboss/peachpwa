@@ -1,0 +1,42 @@
+Peach
+
+Peach is an installable porn app for findom & femdom (a PWA to avoid app store restrictions & policies)
+
+FEED --
+Goddesses will be able to install the app, post videos to a scrollable TikTok feed, and monetize their videos through microtransactions.
+Goddesses will be able to add high-quality AR filters to their face, if they wish, to hide their identity.
+Subs will have the following options on each video: Request to be friends, Like (S,M,L for $x), or "Unmask" for ~x0,000 to see without the AR filter.
+Goddesses will have the option to allow the Unmasking feature on their videos.
+Subs will scroll the Feed & Rooms and try to befriend Goddesses.
+Users will be able to filter the by Video tags. Each video shall have one tag.
+User types will be explained below.
+
+ROOMS --
+Additionally, there will be a Chatroulette / Clubhouse tab called Rooms, were Goddesses can have small audio/video rooms with their subs and fans.
+Rooms features will evolve over time and will not include customization, monetization, or other features to start.
+Today, rooms will be built to have 4 users, and as one user exits or skips, another users will get added to the Room. 
+Rooms will be audio-only by default, with the option to mute/unmute, or turn on/off your video. It's a sysnthis of Clubhouse and Omegle/Chatroulette.
+Would like to use WebTRC.
+
+POST --
+The post tab will mirror the Snapchat experience.
+Record live, decide if you add a filter, post or delete. That's all for now.
+
+MESSAGES --
+There will be a messages tab for users to manage their messages.
+You can only message the users who accept you as a friend.
+Can we implement messaging using the Signal protocol?
+
+FRIEND REQUESTS --
+Basically just a sorted list of friend requests, with whether they Liked (tributed) or not.
+Tributed requests will be at the top of the sort.
+
+USERS --
+When a user installs the PWA, they will be in "Ghost Mode" by default, and assigned a UID and random six alphanumeric character username.
+In the app on the Friend Requests tab there will be a Menu and menu option to "Save" your profile by making a four digit pin.
+The session for the UID should stay valid as long as the app is installed.
+If the users uninstalls the PWA and does not set a pin, the account data will be lost.
+
+MONETIZTION --
+You may suggest a payment processor.
+I will incoporate in Netherlands for freedom to operate under Dutch law, so maybe a Dutch payment processor.
